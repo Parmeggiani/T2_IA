@@ -9,8 +9,9 @@ resposta = []
 lema_list = []
 analise = []
 relevante = []
-class_relev = []
-contagem_relev = []
+aux_relev = []
+#class_relev = []
+#contagem_relev = []
 bag_words = []
 i=0
 
@@ -21,6 +22,7 @@ def conta_frequencia(palavra):
             if(palavra == str(analise[k][j])):
                 frequencia = frequencia+1
     return frequencia
+
 
 with open('perguntas.csv') as csvfile:
     readCSV = csv.reader(csvfile, delimiter=',')
@@ -44,7 +46,7 @@ with open('perguntas.csv') as csvfile:
         y=0
         while(y<len(analise[i])):
             perg = str(analise[i][y])
-            if(perg.startswith('o#') or perg.startswith('de#') or perg.startswith(',#') or perg.startswith('que#') or perg.startswith('qual#')
+            if(perg.startswith('o#') or perg.startswith('de#') or perg.startswith(',#') or perg.startswith('que#') or perg.startswith('qual#') or perg.startswith('a#')
                     or perg.startswith('um#') or perg.startswith('.#') or perg.startswith('?#') or perg.startswith('O#') or perg.startswith('o(')
                     or perg.startswith('ser#') or perg.startswith('quem#') or perg.startswith('em#') or perg.startswith('por#') or perg.startswith('algoritmo#') 
                     or perg.startswith('ir#') or perg.startswith('se#') or perg.startswith('Random_Forest#') or perg.startswith('Random#') or perg.startswith('Forest#')):
@@ -60,10 +62,29 @@ with open('perguntas.csv') as csvfile:
         # 1. conceito 2. comparacao 3. funcionamento 4. aplicacao 5. hiperparametro 6. desvantagem
         # 7. vantagem 8. metodo 9. historia 10. conceitoArvore 11. paradigma 12. overfitting 13. tarefa
         for y in range(len(analise[i])):
-            if(relevante.count(str(analise[i][y])) == 0):
-                class_relev.append(classe[i])
-                relevante.append(str(analise[i][y]))
-                contagem_relev.append(conta_frequencia(str(analise[i][y])))
-        print("TERMO: ",relevante[i], "CLASSE: ", class_relev[i], "COUNT: ", contagem_relev[i])
+            if(aux_relev.count(str(analise[i][y])) == 0):
+                #class_relev.append(classe[i])
+                aux_relev.append(str(analise[i][y]))
+                #contagem_relev.append(conta_frequencia(str(analise[i][y])))
+                relevante.append( (str(analise[i][y]), classe[i], conta_frequencia(str(analise[i][y])) ) )
+        #print("TERMO: ", relevante[i][0], "CLASSE: ", relevante[i][1], "COUNT: ", relevante[i][2])
+    relevante.sort()
+    #print("SORT: ",relevante)
 
-    #k_mais_relevantes = 
+    length = len(relevante)-1
+    for i in range(length):
+        for y in range(length-i):
+            if( int(relevante[y][2]) < int(relevante[y+1][2]) ):
+                #print(relevante[y][2])
+                relevante[y],relevante[y+1] = relevante[y+1], relevante[y]
+
+    print("SORT: ",relevante)
+    
+    # escolher os K primeiros termos para o bag of words
+    k_termos = 10
+    for i in range(k_termos):
+        bag_words.append(relevante[i])
+
+    print("BAG ==> ", bag_words)
+
+
