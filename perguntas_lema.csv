@@ -1,0 +1,63 @@
+PERGUNTAS,CLASSES
+['aplicar'],aplicacao
+"['poder', 'aplicar']",aplicacao
+"['onde', 'poder', 'aplicar']",aplicacao
+"['área', 'aplicação']",aplicacao
+"['quê', 'aplicar']",aplicacao
+[],conceito
+['tratar'],conceito
+['definir'],conceito
+"['único', 'solucionar', 'o(s)', 'problema(s)', 'propor']",comparacao
+"['haver', 'outro', 'além', 'do', 'solucionar', 'mesmo', 'problema']",comparacao
+"['existir', 'mais', 'solucionar', 'mesmo', 'problema']",comparacao
+"['existir', 'alternativas']",comparacao
+"['possível', 'paralelizar']",funcionamento
+"['poder', 'paralelizar']",funcionamento
+"['poder', 'haver', 'implementar', 'paralela']",funcionamento
+"['paralelismo', 'poder', 'aplicar', 'implementar']",funcionamento
+"['utilizar', 'programar', 'dinâmico', 'resolução', 'problema']",funcionamento
+"['fazer', 'uso', 'programar', 'dinâmico', 'resolver', 'problema']",funcionamento
+"['programar', 'dinâmico', 'aplicar', 'resolução', 'problema']",funcionamento
+"['força', 'bruto']",conceito
+"['utilizar', 'força', 'bruto']",conceito
+"['técnica', 'força', 'bruto', 'fazer', 'parte']",conceito
+"['poder', 'considerar', 'simples', 'implementar']",conceito
+"['simples', 'implementar']",conceito
+"['implementar', 'poder', 'fazer', 'maneira', 'simples']",conceito
+"['utilidade', 'hiperparâmetros']",hiperparametro
+"['finalidade', 'hiperparâmetros']",hiperparametro
+"['quê', 'servir', 'hiperparâmetros']",hiperparametro
+"['utilizar', 'hiperparâmetros', 'finalidade']",hiperparametro
+"['como', 'dado', 'organizar', 'estrutural']",funcionamento
+"['estrutura', 'dado', 'utilizar']",funcionamento
+"['estrutura', 'dado', 'utilizar']",funcionamento
+"['autor', 'primeira', 'versão']",historia
+['criador'],historia
+"['primeiro', 'desenvolver']",historia
+['elaborar'],historia
+"['desenvolver', 'inicial']",historia
+"['importância', 'característica']",conceito
+"['relevância', 'característica']",conceito
+['aproximação'],funcionamento
+['aproximação'],funcionamento
+"['pertencer', 'categoria', 'aproximação']",funcionamento
+"['enquadrar', 'categoria', 'aproximação']",funcionamento
+['classificação'],funcionamento
+['classificação'],funcionamento
+"['poder', 'usar', 'classificação']",funcionamento
+"['possível', 'usar', 'classificação']",funcionamento
+"['classe', 'compressão']",funcionamento
+['compressão'],funcionamento
+"['encaixar', 'categoria', 'compressão']",funcionamento
+['regressão'],funcionamento
+"['possível', 'usar', 'regressão']",funcionamento
+"['regressão', 'possibilidade', 'com', 'uso']",funcionamento
+"['resolver', 'problema', 'forma', 'eficiente']",funcionamento
+"['vantagem', 'utilizar']",vantagens
+['pró'],vantagens
+"['vantagem', 'randdom', 'possuir']",vantagens
+"['vantagem', 'utilizar']",desvantagens
+['contra'],desvantagens
+"['vantagem', 'possuir']",desvantagens
+"['com', 'tipo', 'entradas', 'poder', 'trabalhar']",funcionamento
+"['tipo', 'entradas', 'aceitar']",funcionamento

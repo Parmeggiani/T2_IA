@@ -1,0 +1,1204 @@
+PERGUNTAS,CLASSES
+"['benefício', 'floresta', 'aleatório']",vantagem
+"['vantagem', 'floresta', 'aleatório']",vantagem
+"['poder', 'ganhar', 'utilizar', 'floresta', 'aleatório']",vantagem
+"['preferir', 'utilizar', 'floresta', 'aleatório']",vantagem
+"['fazer', 'floresta', 'aleatório', 'melhor', 'outro']",vantagem
+"['diferença', 'entre', 'regressão', 'e', 'classificação']",tarefa
+"['diferir', 'regressão', 'classificação']",tarefa
+"['contexto', 'regressão', 'e', 'classificação']",tarefa
+"['problema', 'regressão', 'ou', 'classificação']",tarefa
+"['regressão', 'e', 'classificação', 'diferir']",tarefa
+"['hiperparâmetro', 'state']",randomState
+"['servir', 'hiperparâmetro', 'state']",randomState
+"['como', 'hiperparâmetro', 'state', 'afetar', 'funcionar']",randomState
+"['importância', 'hiperparâmetro', 'state']",randomState
+"['explicar', 'hiperparâmetro', 'state']",randomState
+"['tipo', 'paradigma', 'utilizar', 'floresta', 'aleatório']",paradigma
+"['paradigma', 'utilizar', 'floresta', 'aleatório']",paradigma
+"['tipo', 'paradigma', 'floresta', 'aleatório', 'utilizar']",paradigma
+"['floresta', 'aleatório', 'utilizar', 'tipo', 'paradigma']",paradigma
+"['paradigma', 'floresta', 'aleatório', 'seguir']",paradigma
+"['aprendizagem', 'supervisionar']",paradigma
+"['definição', 'aprendizagem', 'supervisionar']",paradigma
+"['significar', 'aprendizagem', 'supervisionar']",paradigma
+"['conceito', 'aprendizagem', 'supervisionar']",paradigma
+"['significado', 'aprendizagem', 'supervisionar']",paradigma
+"['como', 'evitar', 'overfitting']",overfitting
+"['poder', 'fazer', 'evitar', 'overfitting']",overfitting
+"['como', 'overfitting', 'poder', 'evitar']",overfitting
+"['poder', 'evitar', 'ocorrência', 'overfitting']",overfitting
+"['como', 'evitar', 'overfitting']",overfitting
+"['hiperparâmetro', 'oob', 'score']",oobScore
+"['servir', 'hiperparâmetro', 'oob', 'score']",oobScore
+"['como', 'hiperparâmetro', 'oob', 'score', 'afetar', 'funcionar']",oobScore
+"['importância', 'hiperparâmetro', 'oob', 'score']",oobScore
+"['explicar', 'hiperparâmetro', 'oob', 'score']",oobScore
+"['hiperparâmetro', 'n', 'jobs']",nJobs
+"['servir', 'hiperparâmetro', 'n', 'jobs']",nJobs
+"['como', 'hiperparâmetro', 'n', 'jobs', 'afetar', 'funcionar']",nJobs
+"['importância', 'hiperparâmetro', 'n', 'jobs']",nJobs
+"['explicar', 'hiperparâmetro', 'n', 'jobs']",nJobs
+"['hiperparâmetro', 'min', 'sample', 'leaf']",minSampleLeaf
+"['servir', 'hiperparâmetro', 'min', 'sample', 'leaf']",minSampleLeaf
+"['como', 'hiperparâmetro', 'min', 'sample', 'leaf', 'afetar', 'funcionar']",minSampleLeaf
+"['importância', 'hiperparâmetro', 'min', 'sample', 'leaf']",minSampleLeaf
+"['explicar', 'hiperparâmetro', 'min', 'sample', 'leaf']",minSampleLeaf
+"['método', 'subespaço', 'aleatório']",metodo
+"['definição', 'método', 'subespaço', 'aleatório']",metodo
+"['significar', 'método', 'subespaço', 'aleatório']",metodo
+"['conceito', 'método', 'subespaço', 'aleatório']",metodo
+"['significado', 'método', 'subespaço', 'aleatório']",metodo
+"['hiperparâmetro', 'max', 'features']",maxFeatures
+"['servir', 'hiperparâmetro', 'max', 'features']",maxFeatures
+"['como', 'hiperparâmetro', 'max', 'features', 'afetar', 'funcionar']",maxFeatures
+"['importância', 'hiperparâmetro', 'max', 'features']",maxFeatures
+"['explicar', 'hiperparâmetro', 'max', 'features']",maxFeatures
+"['existir', 'variar', 'implementar']",implementacao
+"['possível', 'substituir', 'árvore', 'decisão', 'outro', 'estrutura']",implementacao
+"['floresta', 'aleatório', 'só', 'funcionar', 'basear', 'árvore', 'decisão']",implementacao
+"['haver', 'algum', 'substitutivo', 'árvore', 'decisão', 'floresta', 'aleatório']",implementacao
+"['poder', 'usar', 'outro', 'como', 'estimar', 'base']",implementacao
+"['motivar', 'criação', 'floresta', 'aleatório']",historia
+"['causar', 'criação', 'floresta', 'aleatório']",historia
+"['floresta', 'aleatório', 'criar']",historia
+"['floresta', 'aleatório', 'existir']",historia
+"['razão', 'floresta', 'aleatório', 'ter', 'criar']",historia
+"['desenvolver', 'floresta', 'aleatório']",historia
+"['criar', 'floresta', 'aleatório']",historia
+"['nome', 'elaborar', 'floresta', 'aleatório']",historia
+"['nome', 'criador']",historia
+"['nome', 'desenvolvedor', 'floresta', 'aleatório']",historia
+"['quando', 'floresta', 'aleatório', 'criar']",historia
+"['data', 'criação', 'floresta', 'aleatório']",historia
+"['momento', 'floresta', 'aleatório', 'criar']",historia
+"['haver', 'quanto', 'tempo', 'floresta', 'aleatório', 'criar']",historia
+"['data', 'criar', 'floresta', 'aleatório']",historia
+"['servir', 'hiperparâmetros']",hiperparametro
+"['importância', 'hiperparâmetros', 'floresta', 'aleatória']",hiperparametro
+"['como', 'configuração', 'hiperparâmetros', 'afetar', 'desempenho']",hiperparametro
+"['hiperparâmetros', 'e', 'ele', 'servir']",hiperparametro
+"['serventia', 'hiperparâmetros']",hiperparametro
+"['servir', 'parâmetro', 'floresta', 'aleatório']",hiperparametro
+"['utilizar', 'parâmetro', 'floresta', 'aleatório']",hiperparametro
+"['mudar', 'parâmetro', 'floresta', 'aleatório', 'poder', 'modificar']",hiperparametro
+"['impacto', 'parâmetro', 'floresta', 'aleatório']",hiperparametro
+"['aumento', 'parâmetro', 'trazer', 'benefício', 'floresta', 'aleatório']",hiperparametro
+"['parâmetro', 'dever', 'modificar', 'aumentar', 'poder', 'preditivo', 'floresta', 'aleatório']",hiperparametro
+"['parâmetro', 'poder', 'modificar', 'aumentar', 'poder', 'preditivo', 'floresta', 'aleatório']",hiperparametro
+"['modificar', 'poder', 'aumentar', 'poder', 'preditivo', 'floresta', 'aleatório']",hiperparametro
+"['parâmetro', 'responsável', 'aumentar', 'poder', 'preditivo', 'floresta', 'aleatório']",hiperparametro
+"['com', 'parâmetro', 'floresta', 'aleatório', 'melhora', 'seu', 'poder', 'preditivo']",hiperparametro
+"['parâmetro', 'dever', 'modificar', 'aumentar', 'velocidade', 'modelo', 'floresta', 'aleatório']",hiperparametro
+"['parâmetro', 'poder', 'modificar', 'aumentar', 'velocidade', 'modelo', 'floresta', 'aleatório']",hiperparametro
+"['modificar', 'poder', 'aumentar', 'velocidade', 'modelo', 'floresta', 'aleatório']",hiperparametro
+"['parâmetro', 'responsável', 'aumentar', 'velocidade', 'modelo', 'floresta', 'aleatório']",hiperparametro
+"['com', 'parâmetro', 'floresta', 'aleatório', 'tornar', '-se', 'mais', 'eficaz']",hiperparametro
+"['como', 'operar']",funcionamento
+"['mecanismo', 'funcionar']",funcionamento
+"['passo', 'executar', 'floresta', 'randômica']",funcionamento
+"['como', 'atuar']",funcionamento
+"['floresta', 'randômica', 'fazer']",funcionamento
+"['tocante', 'resultados', 'floresta', 'poder', 'obter', 'e', 'número', 'árvore', 'este', 'floresta', 'haver', 'relação']",funcionamento
+"['existir', 'relação', 'direto', 'entre', 'número', 'árvore', 'floresta', 'e', 'resultados', 'ele', 'poder', 'obter']",funcionamento
+"['haver', 'relação', 'direto', 'entre', 'número', 'árvore', 'floresta', 'e', 'resultados', 'ele', 'poder', 'obter']",funcionamento
+"['formar', 'número', 'árvore', 'floresta', 'impactar', 'resultados']",funcionamento
+"['existir', 'relação', 'direto', 'entre', 'resultados', 'floresta', 'poder', 'obter', 'e', 'número', 'árvore', 'conter']",funcionamento
+"['diferença', 'entre', 'e', 'árvore', 'decisão']",funcionamento
+"['diferença', 'entre', 'e', 'árvore', 'decisão']",funcionamento
+"['como', 'e', 'árvore', 'decisão', 'diferente']",funcionamento
+"['e', 'decision', 'tree', 'selecionar', 'nodo', 'raiz', 'mesmo', 'forma']",funcionamento
+"['mecanismo', 'utilizar', 'e', 'decision', 'tree', 'selecionar', 'nodo', 'raiz']",funcionamento
+"['como', 'funcionar', 'floresta', 'aleatório']",funcionamento
+"['como', 'operar', 'floresta', 'aleatório']",funcionamento
+"['como', 'trabalhar', 'floresta', 'aleatório']",funcionamento
+"['funcionar', 'floresta', 'aleatório']",funcionamento
+"['como', 'floresta', 'aleatório', 'realizar', 'classificação']",funcionamento
+"['quantas', 'e', 'fase', 'floresta', 'aleatório']",funcionamento
+"['como', 'funcionar', 'fase', 'floresta', 'aleatório', 'e', 'quanto']",funcionamento
+"['mudança', 'exercer', 'cada', 'fase', 'floresta', 'aleatório']",funcionamento
+"['cada', 'fase', 'floresta', 'aleatório', 'fazer']",funcionamento
+"['papel', 'cada', 'fase', 'floresta', 'aleatório']",funcionamento
+"['como', 'fazer', 'treinar', 'floresta', 'aleatória']",funcionamento
+"['como', 'floresta', 'aleatória', 'treinar']",funcionamento
+"['como', 'treinar', 'floresta', 'aleatória']",funcionamento
+"['como', 'ocorrer', 'treinar', 'floresta', 'aleatória']",funcionamento
+"['fazer', 'treinar', 'floresta', 'aleatória']",funcionamento
+['vantagem'],desvantagem
+"['ponto', 'fraco', 'floresta', 'randômica']",desvantagem
+"['limitar', 'floresta', 'randômica']",desvantagem
+"['poder', 'justificar', 'não', 'uso']",desvantagem
+"['fazer', 'com', 'nao', 'sempre', 'viável']",desvantagem
+"['malefício', 'uso', 'floresta', 'aleatório']",desvantagem
+"['prejuízo', 'floresta', 'aleatório', 'poder', 'causar', 'aplicação']",desvantagem
+"['vantagem', 'uso', 'floresta', 'aleatório']",desvantagem
+"['situação', 'floresta', 'aleatório', 'poder', 'prejudicar', 'aplicação']",desvantagem
+"['característica', 'ruim', 'floresta', 'aleatório']",desvantagem
+['hiperparâmetros'],conceitoHiperparametro
+"['definição', 'hiperparâmetros']",conceitoHiperparametro
+"['significar', 'hiperparâmetro']",conceitoHiperparametro
+"['conceito', 'hiperparâmetro']",conceitoHiperparametro
+"['significado', 'hiperparâmetro']",conceitoHiperparametro
+"['árvore', 'decisão']",conceitoArvore
+"['definição', 'árvore', 'decisão']",conceitoArvore
+"['significar', 'árvore', 'decisão']",conceitoArvore
+"['conceito', 'árvore', 'decisão']",conceitoArvore
+"['significado', 'árvore', 'decisão']",conceitoArvore
+[],conceito
+['conceito'],conceito
+['consistir'],conceito
+"['alguém', 'me', 'explicar']",conceito
+"['do', 'tratar']",conceito
+"['floresta', 'aleatório']",conceito
+"['definição', 'floresta', 'aleatório']",conceito
+"['significar', 'floresta', 'aleatório']",conceito
+"['conceito', 'floresta', 'aleatório']",conceito
+"['significado', 'floresta', 'aleatório']",conceito
+"['problema', 'árvore', 'decisão', 'capaz', 'superar']",comparacao
+"['haver', 'algum', 'vantagem', 'comparação', 'com', 'decision', 'tree']",comparacao
+"['haver', 'algum', 'diferença', 'relevante', 'resultados', 'obter', 'floresta', 'randômica', 'e', 'árvores', 'decisão']",comparacao
+"['tocante', 'resultados', 'obter', 'diferenciar', 'floresta', 'randômica', 'e', 'árvores', 'decisão']",comparacao
+"['tanger', 'resultados', 'obter', 'diferenciar', 'e', 'decision', 'tree']",comparacao
+"['principal', 'aplicar']",aplicacao
+"['setor', 'utilizar', 'comumente']",aplicacao
+"['principal', 'aplicar', 'quê']",aplicacao
+"['onde', 'normal', 'aplicar']",aplicacao
+"['principal', 'área', 'aplicação']",aplicacao
+"['como', 'utilizar', 'florest', 'aleatório', 'banco']",aplicacao
+"['servir', 'sistema', 'bancário']",aplicacao
+"['principal', 'utilizar', 'setor', 'bancário']",aplicacao
+"['principal', 'uso', 'sistema', 'bancário']",aplicacao
+"['principal', 'uso', 'sistema', 'financeiro']",aplicacao
+"['quê', 'usar', 'campo', 'medicina']",aplicacao
+"['principal', 'medicina']",aplicacao
+"['contexto', 'medicina', 'como', 'poder', 'útil']",aplicacao
+"['principal', 'uso', 'medicina']",aplicacao
+"['medicina', 'principal', 'usar']",aplicacao
+"['quê', 'usar', 'campo', 'mercado', 'ação']",aplicacao
+"['principal', 'mercado', 'acionário']",aplicacao
+"['contexto', 'mercado', 'ação', 'como', 'poder', 'útil']",aplicacao
+"['principal', 'uso', 'mercado', 'ação']",aplicacao
+"['mercado', 'ação', 'principal', 'usar']",aplicacao
+"['principal', 'e-commerce']",aplicacao
+"['contexto', 'e-commerce', 'como', 'poder', 'útil']",aplicacao
+"['principal', 'uso', 'e-commerce']",aplicacao
+"['e-commerce', 'principal', 'usar']",aplicacao
+"['setor', 'e-commerce', 'usar']",aplicacao
+"['poder', 'usar', 'classificação']",aplicacao
+"['poder', '-se', 'usar', 'classificação']",aplicacao
+"['classificação', 'coisa', 'poder', 'usar']",aplicacao
+"['is', 'classification', 'possible', 'to', 'be', 'used', 'with']",aplicacao
+"['aplicar', 'classificação', 'ele']",aplicacao
+"['poder', 'usar', 'regressão']",aplicacao
+"['poder', 'usar', 'regressão']",aplicacao
+"['regressão', 'coisa', 'poder', 'usar']",aplicacao
+"['possível', 'usar', 'regressão', 'com']",aplicacao
+"['aplicar', 'regressão', 'ele']",aplicacao
+"['servir', 'floresta', 'aleatório']",aplicacao
+"['objetivo', 'floresta', 'aleatório']",aplicacao
+"['propósito', 'floresta', 'aleatório']",aplicacao
+"['finalidade', 'floresta', 'aleatório']",aplicacao
+"['floresta', 'aleatório', 'ter', 'como', 'objetivo']",aplicacao
+"['hiperparâmetro', 'n', 'estimators']", nEstimators
+"['servir', 'hiperparâmetro', 'n', 'estimators']", nEstimators
+"['como', 'hiperparâmetro', 'n', 'estimators', 'afetar', 'funcionar']", nEstimators
+"['importância', 'hiperparâmetro', 'n', 'estimators']", nEstimators
+"['explicar', 'hiperparâmetro', 'n', 'estimators']", nEstimators
+[],
+"['floresta', 'aleatório']",conceito
+['what'],conceito
+"['floresta', 'aleatório']",conceito
+"['seriar', 'floresta', 'aleatório']",conceito
+[],conceito
+"['como', 'funcionar']",funcionamento
+"['funcionar', 'forma']",funcionamento
+"['como', 'funcionar']",funcionamento
+"['como', 'funcionar', 'floresta', 'aleatório']",funcionamento
+"['como', 'funcionar', 'floresta', 'aleatorio']",funcionamento
+['usar'],aplicacao
+['servir'],aplicacao
+['aplicar'],aplicacao
+"['e', 'sua', 'aplicar']",aplicacao
+"['pra', 'usar', 'floresta', 'aleatório']",aplicacao
+['vantagem'],aplicacao
+"['benefício', 'utilizar']",aplicacao
+"['proveito', 'utilizar']",aplicacao
+"['vantagem', 'floresta', 'aleatório']",aplicacao
+"['proveito', 'utilizar', 'floresta', 'aleatório']",aplicacao
+['vantagem'],aplicacao
+"['prejuízo', 'utilizar']",aplicacao
+['limitar'],aplicacao
+"['limitar', 'floresta', 'aleatório']",aplicacao
+"['vantagem', 'floresta', 'aleatório']",aplicacao
+['criar'],historia
+['desenvolver'],historia
+"['nome', 'criador']",historia
+"['criar', 'florest', 'aleatório']",historia
+"['nome', 'criador', 'floresta', 'aleatório']",historia
+"['data', 'criação']",historia
+"['ano', 'criação']",historia
+"['data', 'criação', 'floresta', 'aleatório']",historia
+"['ano', 'criação', 'floresta', 'aleatório']",historia
+"['quando', 'criar']",historia
+"['floresta', 'aleatório', 'usar', 'árvore', 'decisão']",classificacao
+"['usar', 'árvore', 'decisão']",classificacao
+"['utilizar', 'árvore', 'decisão']",classificacao
+"['floresta', 'aleatório', 'usar', 'árvore', 'decisão']",classificacao
+"['e', 'árvore', 'decisão']",classificacao
+"['árvore', 'decisão']",conceito
+"['decision', 'tree']",conceito
+"['árvore', 'decisão']",conceito
+"['árvore', 'decisão']",conceito
+"['seriar', 'árvore', 'decisão']",conceito
+"['diferença', 'entre', 'floresta', 'aleatório', 'e', 'arvore', 'decisão']",comparacao
+"['distinção', 'entre', 'floresta', 'aleatório', 'e', 'arvore', 'decisão']",comparacao
+"['diferença', 'entre', 'e', 'decision', 'tree']",comparacao
+"['diferença', 'entre', 'floresta', 'aleatório', 'e', 'arvore', 'decisão']",comparacao
+"['diferença', 'entre', 'e', 'arvore', 'decisão']",comparacao
+"['principal', 'hiperparametros', 'aumentar', 'poder', 'preditivo']",parametro
+"['principal', 'hiperparametros', 'utilizar', 'aumentar', 'poder', 'preditivo']",parametro
+"['principal', 'hiperparametros', 'aumentar', 'poder', 'preditivo']",parametro
+"['principal', 'hiperparametros', 'aumentar', 'poder', 'preditivo']",parametro
+"['principal', 'hiperparametros', 'utilizar', 'aumentar', 'poder', 'preditivo']",parametro
+"['principal', 'hiperparametros', 'aumentar', 'velocidade', 'modelo']",parametro
+"['principal', 'hiperparametros', 'utilizar', 'aumentar', 'velocidade', 'modelo']",parametro
+"['principal', 'hiperparametros', 'aumentar', 'velocidade', 'modelo']",parametro
+"['principal', 'hiperparametros', 'aumentar', 'velocidade', 'modelo']",parametro
+"['principal', 'hiperparametros', 'utilizar', 'aumentar', 'velocidade', 'modelo']",parametro
+"['como', 'construir', 'floresta', 'aleatório']",funcionamento
+"['como', 'construir', 'floresta', 'aleatório']",funcionamento
+"['como', 'construir']",funcionamento
+"['como', 'construir']",funcionamento
+"['como', 'fazer', 'construir', 'floresta', 'aleatório']",funcionamento
+"['areas', 'floresta', 'aleatório', 'utilizar']",aplicacao
+"['areas', 'utilizar', 'floresta', 'aleatório']",aplicacao
+"['areas', 'utilizar']",aplicacao
+"['areas', 'utilizar']",aplicacao
+"['utilizar', 'areas']",aplicacao
+['caracteristicas'],caracteristica
+['caracteristicas'],caracteristica
+"['caracteristicas', 'floresta', 'aleatório']",caracteristica
+"['ter', 'caracteristicas']",caracteristica
+"['floresta', 'aleatório', 'ter', 'caracteristicas']",caracteristica
+"['como', 'utilizar', 'sistema', 'financeiro']",aplicacao
+"['como', 'utilizar', 'sistema', 'financeiro']",aplicacao
+"['utilizar', 'como', 'sistema', 'financeiro']",aplicacao
+"['como', 'floresta', 'aleatório', 'utilizar', 'sistema', 'financeiro']",aplicacao
+"['sistema', 'financeiro']",aplicacao
+"['como', 'utilizar', 'área', 'saúde']",aplicacao
+"['como', 'utilizar', 'área', 'médico']",aplicacao
+"['utilizar', 'como', 'área', 'saúde']",aplicacao
+"['utilizar', 'como', 'área', 'médico']",aplicacao
+"['área', 'saúde']",aplicacao
+"['como', 'utilizar', 'comércio', 'eletrônico']",aplicacao
+"['como', 'utilizar', 'e-commerce']",aplicacao
+"['como', 'utilizar', 'e-commerce']",aplicacao
+"['utilizar', 'como', 'e-commerce']",aplicacao
+"['comércio', 'eletrônico']",aplicacao
+"['como', 'utilizar', 'sistema', 'bancário']",aplicacao
+"['como', 'usar', 'sistema', 'bancário']",aplicacao
+"['como', 'banco', 'usar']",aplicacao
+"['como', 'banco', 'utilizar']",aplicacao
+"['sistema', 'bancário']",aplicacao
+['i.'],definicao
+"['floresta', 'aleatório', 'i.']",definicao
+"['poder', 'considerar', 'como', 'i.']",definicao
+"['inteligência', 'articial']",definicao
+"['floresta', 'aleatório', 'inteligência', 'artificial']",definicao
+[],
+['objetivo'],proposito
+"['buscar', 'fazer']",proposito
+['propósito'],proposito
+['meta'],proposito
+['designar'],proposito
+[],
+"['aprendizado', 'supervisionar', 'ou', 'não', 'supervisionar']",conceito
+"['supervisionar', 'ou', 'não', 'supervisionar']",conceito
+"['supervisionar', 'ou', 'não', 'supervisionar']",conceito
+"['supervisionar', 'ou', 'não', 'supervisionar']",conceito
+"['como', 'classificar']",conceito
+[],
+"['estrutura', 'dado', 'utilizar', 'primordial']",funcionamento
+"['sua', 'principal', 'estrutura', 'dado']",funcionamento
+"['estrutura', 'dado', 'base']",funcionamento
+"['estrutura', 'dado', 'primordial', 'floresta', 'aleatório']",funcionamento
+"['estrutura', 'dado', 'primordial', 'utilizar']",funcionamento
+[],
+"['diferença', 'decision', 'tree']",comparacao
+"['dissemelhanças', 'entre', 'e', 'decision', 'tree']",comparacao
+"['diferença', 'entre', 'floresta', 'aleatório', 'e', 'decision', 'tree']",comparacao
+"['distinguir', 'decision', 'tree']",comparacao
+"['floresta', 'aleatório', 'e', 'árvore', 'decisão', 'diferente']",comparacao
+[],
+"['citar', 'algum', 'vantagem']",vantagem
+['vantagem'],vantagem
+"['valer', 'pena', 'usar']",vantagem
+"['comentar', 'vantagem']",vantagem
+"['vantagem', 'trazer']",vantagem
+[],
+"['citar', 'algum', 'vantagem']",desvantagem
+['vantagem'],desvantagem
+"['vantagem', 'floresta', 'aleatório']",desvantagem
+"['comente', 'vantagem']",desvantagem
+"['vantagem', 'trazer']",desvantagem
+[],
+"['ano', 'propor']",historia
+"['ano', 'propor']",historia
+"['ano', 'floresta', 'aleatório', 'propor']",historia
+"['apresentar', 'ano']",historia
+"['ano', 'propor']",historia
+[],
+"['formar', 'features', 'escolher', 'cada', 'decision', 'tree']",funcionamento
+"['formar', 'features', 'escolher', 'cada', 'árvore', 'decisão']",funcionamento
+"['como', 'escohidas', 'features', 'árvore', 'decisão']",funcionamento
+"['como', 'escolher', 'features', 'cada', 'decision', 'tree']",funcionamento
+"['como', 'decidir', 'features', 'cada', 'árvore', 'decisão']",funcionamento
+[],
+"['explicar', 'conceito', 'bagging']",bagging
+['bagging'],bagging
+"['definir', 'conceito', 'bagging']",bagging
+"['explique', 'como', 'funcionar', 'bagging']",bagging
+"['detalhe', 'conceito', 'bagging', 'floresta', 'aleatório']",bagging
+[],
+"['como', 'utilizar', 'conceito', 'bagging']",funcionamento
+"['como', 'utilizar', 'bagging']",funcionamento
+"['como', 'implementar', 'conceito', 'bagging']",funcionamento
+"['como', 'usar', 'conceito', 'bagging', 'floresta', 'aleatório']",funcionamento
+"['como', 'usar', 'bagging']",funcionamento
+[],
+"['como', 'poder', 'utilizar', 'e-commerce']",aplicacao
+"['como', 'e-commerce', 'poder', 'usar']",aplicacao
+"['como', 'poder', 'usar', 'e-commerce']",aplicacao
+"['utilizade', 'e-commerce']",aplicacao
+"['como', 'poder', 'aplicar', 'e-commerce']",aplicacao
+[],
+['overfit'],overfit
+"['definição', 'overfit']",overfit
+"['significar', 'overift']",overfit
+"['significado', 'overift']",overfit
+"['significado', 'termo', 'overfit']",overfit
+[],
+"['como', 'reduzir', 'overfit']",funcionamento
+"['indique', 'forma', 'reduzir', 'overfit']",funcionamento
+"['poder', 'fazer', 'reduzir', 'overfit']",funcionamento
+"['como', 'poder', '-se', 'reduzir', 'overift', 'tipo']",funcionamento
+"['forma', 'poder', '-se', 'reduzir', 'overfit']",funcionamento
+[],
+"['explicar', 'parâmetro', 'n', 'estimators']",nEstimators
+"['como', 'parâmetro', 'n', 'estimators', 'impactar']",nEstimators
+"['função', 'parâmetro', 'n', 'estimators']",nEstimators
+"['servir', 'parâmetro', 'n', 'estimators']",nEstimators
+"['formar', 'parâmetro', 'n', 'estimators', 'influenciar', 'comportar']",nEstimators
+[],
+"['consequência', 'árvore', 'ter', 'alta', 'correlação', 'entre', 'si']",funcionamento
+"['acarretar', 'árvore', 'ter', 'alta', 'correlação', 'entre', 'si']",funcionamento
+"['efeito', 'decision', 'trees', 'ter', 'alta', 'correlação', 'entre', 'si']",funcionamento
+"['árvore', 'ter', 'alta', 'correlação', 'entre', 'si', 'consequência']",funcionamento
+"['acontecer', 'árvore', 'decisão', 'ter', 'alto', 'correlação', 'entre', 'si']",funcionamento
+[],
+"['como', 'funcionar', 'hiperparâmentro', 'max', 'features']",maxFeatures
+"['modo', 'funcionar', 'hiperparâmetro', 'max', 'features']",maxFeatures
+"['como', 'hiperparâmetro', 'max', 'features', 'funcionar', 'floresta', 'aleatório']",maxFeatures
+"['como', 'hiperparâmetro', 'max', 'features', 'impactar']",maxFeatures
+"['modo', 'hiperparâmetro', 'max', 'features', 'funcionar']",maxFeatures
+[],
+"['como', 'funcionar', 'hiperparâmentro', 'max', 'depth']",maxDepth
+"['modo', 'funcionar', 'hiperparâmetro', 'max', 'depth']",maxDepth
+"['como', 'hiperparâmetro', 'max', 'depth', 'funcionar', 'floresta', 'aleatório']",maxDepth
+"['como', 'hiperparâmetro', 'max', 'depth', 'impactar']",maxDepth
+"['modo', 'hiperparâmetro', 'max', 'depth', 'funcionar']",maxDepth
+[],
+"['como', 'poder', 'utilizar', 'área', 'médico']",aplicacao
+"['como', 'possível', 'utilizar', 'área', 'médico']",aplicacao
+"['como', 'usar', 'floresta', 'aleatório', 'área', 'médico']",aplicacao
+"['como', 'poder', 'usar', 'medicina']",aplicacao
+"['como', 'seriar', 'possível', 'utilizar', 'medicina']",aplicacao
+[],
+"['como', 'fazer', 'predição', 'final']",funcionamento
+"['como', 'floresta', 'aleatório', 'fazer', 'predição']",funcionamento
+"['como', 'realizar', 'predição', 'final']",funcionamento
+"['como', 'realizar', 'predição', 'final']",funcionamento
+"['como', 'calcular', 'predição', 'final']",funcionamento
+[],
+"['cada', 'árvore', 'receber', 'mesmo', 'amostra', 'treino']",funcionamento
+"['árvore', 'receber', 'amostra', 'treino', 'igual']",funcionamento
+"['treinar', 'cada', 'árvore', 'com', 'mesmo', 'amostra']",funcionamento
+"['amostra', 'treino', 'utilizar', 'cada', 'decision', 'tree', 'igual']",funcionamento
+"['igual', 'amostra', 'utilizar', 'treinar', 'decision', 'trees', 'floresta']",funcionamento
+[],
+"['dois', 'método', 'aprendizado', 'máquina', 'usar', 'floresta', 'aleatório']",metodos
+"['dois', 'método', 'aprendizado', 'máquina', 'usar']",metodos
+"['dois', 'método', 'aprendizado', 'máquina', 'usar', 'floresta', 'aleatório', 'ele']",metodos
+"['citar', 'dois', 'método', 'aprendizado', 'máquina', 'usar', 'floresta', 'aleatório']",metodos
+"['citar', 'dois', 'método', 'aprendizado', 'máquina', 'usar']",metodos
+"['aplicação', 'floresta', 'aleatório']",proposito
+['aplicação'],proposito
+['uso'],proposito
+['usar'],proposito
+"['usar', 'floresta', 'aleatório']",proposito
+"['criar', 'floresta', 'aleatório']",historia
+['criar'],historia
+"['nome', 'criador', 'floresta', 'aleatório']",historia
+"['nome', 'criador']",historia
+"['desenvolver', 'floresta', 'aleatório']",historia
+"['utilizar', 'árvore', 'decisão']",metodos
+"['floresta', 'aleatório', 'utilizar', 'árvore', 'decisão']",metodos
+"['floresta', 'aleatório', 'utilizar', 'árvore', 'decisão']",metodos
+"['floresta', 'aleatório', 'utilizar', 'método', 'árvore', 'decisão']",metodos
+"['utilizar', 'método', 'árvore', 'decisão']",metodos
+"['utilizar', 'bagging']",bagging
+"['floresta', 'aleatório', 'utilizar', 'bagging']",bagging
+"['utilizar', 'bagging']",bagging
+"['floresta', 'aleatório', 'utilizar', 'bagging']",bagging
+"['bagging', 'utilizar']",bagging
+"['floresta', 'aleatória', 'funcionar', 'com', 'dataset', 'possuir', 'dado', 'ausente']",tratamentoDeDados
+"['floresta', 'aleatória', 'funcionar', 'com', 'conjunto', 'dado', 'não', 'possuir', 'todo', 'dado']",tratamentoDeDados
+"['chamado', '(', 'floresta', 'aleatória', ')', 'funcionar', 'com', 'conjunto', 'conter', 'dado', 'ausente']",tratamentoDeDados
+"['seriar', 'boa', 'escolha', 'usar', 'trabalhar', 'com', 'conjunto', 'possuir', 'dado', 'ausente']",tratamentoDeDados
+"['floresta', 'aleatória', 'possibilitar', 'método', 'efetivo', 'substituir', 'dado', 'ausente']",tratamentoDeDados
+"['bagging', 'como', 'funcionar']",bagging
+"['bagging', 'e', 'como', 'ele', 'funcionar']",bagging
+"['bagging', 'e', 'sua', 'aplicação']",bagging
+"['funcionar', 'bagging']",bagging
+"['como', 'funcionar', 'método', 'bagging']",bagging
+"['floresta', 'aleatória', 'poder', 'trabalhar', 'com', 'grande', 'volume', 'dado']",tratamentoDeDados
+"['floresta', 'aleatória', 'poder', 'lidar', 'com', 'grande', 'volume', 'dado']",tratamentoDeDados
+"['permitir', 'lidar', 'com', 'dado', 'grande', 'volume']",tratamentoDeDados
+"['permitir', 'lidar', 'com', 'grande', 'volume', 'dado']",tratamentoDeDados
+"['lidar', 'com', 'grande', 'conjunto', 'dado', 'seriar', 'boa', 'ideia', 'usar', 'floresta', 'aleatória']",tratamentoDeDados
+['sobreajuste'],sobreajuste
+"['overfitting', 'poder', 'considerar', 'problema', 'árvore', 'decisão']",sobreajuste
+"['sobreajuste', 'problema', 'árvore', 'decisão']",sobreajuste
+"['sobreajuste', 'poder', 'problema', 'árvore', 'decisão', 'como', 'poder', 'tratar']",sobreajuste
+['overfitting'],sobreajuste
+"['forests', 'utilidade', 'processo', 'dividir', 'conquistar']",funcionamento
+"['floresta', 'aleatório', 'tirar', 'proveito', 'processo', 'dividir', 'conquistar']",funcionamento
+"['floresta', 'aleatório', 'usar', 'proceder', 'dividir', 'conquistar']",funcionamento
+"['dividir', '-', '-', 'conquistar', 'método', 'utilizar', 'forests']",funcionamento
+"['as', 'forests', 'utilizar', 'método', 'dividir', 'conquistar']",funcionamento
+"['poder', 'evitar', 'algum', 'maneira', 'sobreajuste', 'árvore', 'decisão']",sobreajuste
+"['como', 'evitar', 'overfitting', 'árvore', 'decisão']",sobreajuste
+"['fazer', 'evitar', 'overfitting', 'árvore', 'decisão']",sobreajuste
+"['como', 'poder', 'evitar', 'sobreajuste', 'árvore', 'decisão']",sobreajuste
+"['poder', 'fazer', 'evitar', 'sobreajuste']",sobreajuste
+"['ano', 'criar', 'floresta', 'aleatório']",historia
+"['ano', 'criação', 'floresta', 'aleatório']",historia
+"['floresta', 'aleatório', 'criar', 'ano']",historia
+"['ano', 'floresta', 'aleatório', 'criar']",historia
+"['ano', 'criar']",historia
+"['floresta', 'aleatório', 'poder', 'utilizar', 'tanto', 'regressão', 'quanto', 'classificação']",metodos
+"['poder', 'utilizar', 'tanto', 'regressão', 'quanto', 'classificação']",metodos
+"['floresta', 'aleatório', 'poder', 'utilizar', 'tanto', 'regressão', 'quanto', 'classificação']",metodos
+"['poder', 'utilizar', 'tanto', 'regressão', 'quanto', 'classificação']",metodos
+"['poder', 'utilizar', 'tanto', 'regressão', 'quanto', 'classificação']",metodos
+"['floresta', 'aleatório', 'tender', 'ter', 'desempenho', 'ruim', 'com', 'dado', 'desbalanceados']",desbalanceamento
+"['tender', 'ter', 'desempenho', 'ruim', 'com', 'dado', 'desbalanceados']",desbalanceamento
+"['com', 'dado', 'desbalanceados', 'tender', 'ter', 'desempenho', 'ruim']",desbalanceamento
+"['com', 'dado', 'desbalanceados', 'floresta', 'aleatório', 'tender', 'ter', 'desempenho', 'ruim']",desbalanceamento
+"['tender', 'ter', 'desempenho', 'ruim', 'com', 'dado', 'desbalanceados']",desbalanceamento
+"['durante', 'processo', 'modelagem', 'etapa', 'dever', 'utilizar', 'floresta', 'aleatória']",aplicacao
+"['iniciar', 'processo', 'modelagem', 'dever', 'usar']",aplicacao
+"['poder', 'usar', 'durante', 'modelagem']",aplicacao
+"['dever', 'usar', 'floresta', 'aleatória', 'durante', 'modelagem']",aplicacao
+"['etapa', 'dever', 'usar']",aplicacao
+"['floresta', 'aleatório', 'excelente', 'utilizar', 'primeiros', 'estágio', 'criação', 'processo', 'desenvolvimento', 'modelo']",aplicacao
+"['excelente', 'utilizar', 'primeiros', 'estágio', 'criação', 'processo', 'desenvolvimento', 'modelo']",aplicacao
+"['floresta', 'aletória', 'excelente', 'utilizar', 'primeiros', 'estágio', 'criação', 'processo', 'desenvolvimento', 'modelo']",aplicacao
+"['excelente', 'utilizar', 'primeiros', 'estágio', 'criação', 'processo', 'desenvolvimento', 'modelo']",aplicacao
+"['excelente', 'utilizar', 'primeiros', 'estágio', 'criação', 'processo', 'desenvolvimento', 'modelo']",aplicacao
+"['floresta', 'aleatório', 'poder', 'usar', 'tarefa', 'classificação']",aplicacao
+"['poder', 'usar', 'tarefa', 'classificação']",aplicacao
+"['floresta', 'aleatório', 'poder', 'usar', 'tarefa', 'classificação']",aplicacao
+"['poder', 'usar', 'tarefa', 'classificação']",aplicacao
+"['poder', 'aplicar', 'tarefa', 'classificação']",aplicacao
+"['floresta', 'aleatório']",conceito
+"['descrever', 'floresta', 'aleatório']",conceito
+[],conceito
+['descrever'],conceito
+[],conceito
+"['floresta', 'aleatório', 'poder', 'usar', 'tarefa', 'regressão']",aplicacao
+"['poder', 'usar', 'tarefa', 'regressão']",aplicacao
+"['floresta', 'aleatório', 'poder', 'aplicar', 'tarefa', 'regressão']",aplicacao
+"['poder', 'aplicar', 'tarefa', 'regressão']",aplicacao
+"['floresta', 'aleatório', 'poder', 'aplicar', 'tarefa', 'regressão']",aplicacao
+"['propenso', 'overfitting', 'especial', 'tarefa', 'com', 'muito', 'ruir']",sobreajuste
+"['propenso', 'overfitting', 'especial', 'tarefa', 'com', 'muito', 'ruir']",sobreajuste
+"['floresta', 'aleatório', 'propenso', 'overfitting', 'especial', 'tarefa', 'com', 'muito', 'ruir']",sobreajuste
+"['floresta', 'aleatório', 'propenso', 'overfitting', 'especial', 'tarefa', 'com', 'muito', 'ruir']",sobreajuste
+"['real', 'floresta', 'aleatório', 'propenso', 'overfitting', 'ainda', 'mais', 'tarefa', 'com', 'muito', 'ruir']",sobreajuste
+[],
+[],conceito
+['definição'],definicao
+['tratar'],definicao
+['descrição'],definicao
+"['ter', 'declaração']",definicao
+"['como', 'funcionar']",definicao
+"['como', 'funcionar']",definicao
+['fazer'],definicao
+"['forma', 'dar', 'funcionar']",definicao
+"['como', 'execução']",definicao
+['vantagem'],definicao
+"['vantagem', 'trazer']",definicao
+"['vantajoso', 'uso']",definicao
+"['ponto', 'forte', 'usá', '-lo']",definicao
+"['benefício', 'ele', 'apresentar']",definicao
+['hiperparâmetros'],hiperparametro
+"['ter', 'hiperparâmetros']",hiperparametro
+['hiper-parametrização'],hiperparametro
+"['principal', 'hiperparâmetros']",hiperparametro
+"['respeito', 'hiperparâmetros', 'apresentar']",hiperparametro
+"['analogia', 'com', 'vida', 'real']",aplicacao
+"['aplicação', 'com', 'vida', 'real', 'dar']",aplicacao
+"['exemplo', 'caso', 'real', 'com', 'funcionar']",aplicacao
+"['citar', 'analogia', 'com', 'vida', 'real']",aplicacao
+"['citar', 'exemplo', 'vida', 'real', 'ter', 'ver', 'com']",aplicacao
+"['principal', 'hiperparâmetros', 'aumentar', 'poder', 'preditivo']",hiperparametroPreditivo
+"['aumentar', 'poder', 'preditivo', 'utilizar', 'hiperparâmetros']",hiperparametroPreditivo
+"['aumento', 'poder', 'preditivo', 'dar', 'hiperparâmetros']",hiperparametroPreditivo
+"['citar', 'principal', 'hiperparâmetros', 'aumentar', 'poder', 'preditivo']",hiperparametroPreditivo
+"['aumento', 'poder', 'preditivo', 'fazer', 'uso', 'hiperparâmetros']",hiperparametroPreditivo
+"['n', 'estimators']",hiperparametroPreditivo
+"['hiperparâmetro', 'n', 'estimators']",hiperparametroPreditivo
+"['servir', 'n', 'estimators']",hiperparametroPreditivo
+"['n', 'estimators', 'ter', 'uso']",hiperparametroPreditivo
+"['objetivo', 'n', 'estimators']",hiperparametroPreditivo
+"['max', 'features']",hiperparametroPreditivo
+"['hiperparâmetro', 'max', 'features']",hiperparametroPreditivo
+"['servir', 'max', 'features']",hiperparametroPreditivo
+"['max', 'features', 'ter', 'uso']",hiperparametroPreditivo
+"['objetivo', 'max', 'features']",hiperparametroPreditivo
+"['min', 'sample', 'leaf']",hiperparametroPreditivo
+"['hiperparâmetro', 'min', 'sample', 'leaf']",hiperparametroPreditivo
+"['servir', 'min', 'sample', 'leaf']",hiperparametroPreditivo
+"['min', 'sample', 'leaf', 'ter', 'uso']",hiperparametroPreditivo
+"['objetivo', 'min', 'sample', 'leaf']",hiperparametroPreditivo
+['vantagem'],definicao
+"['vantagem', 'trazer']",definicao
+"['revés', 'utilizar']",definicao
+"['divergir', 'vantagem']",definicao
+"['citar', 'vantagem']",definicao
+['aplicar'],aplicacao
+"['uso', 'real']",aplicacao
+"['poder', 'utilizar', 'aplicar']",aplicacao
+"['área', 'utilizar']",aplicacao
+"['área', 'poder', '-se', 'utilizar']",aplicacao
+"['diferença', 'árvore', 'decisão']",definicao
+"['divergir', 'com', 'árvore', 'decisão']",definicao
+"['relação', 'árvore', 'decisão', 'diferença']",definicao
+"['árvore', 'decisão', 'ter', 'diferença', 'relação']",definicao
+"['citar', 'diferença', 'com', 'árvore', 'decisão']",definicao
+"['principal', 'hiperparâmetros', 'aumentar', 'velocidade', 'modelo']",hiperparametroVelocidade
+"['aumentar', 'velocidade', 'modelo', 'utilizar', 'hiperparâmetros']",hiperparametroVelocidade
+"['aumento', 'velocidade', 'modelo', 'dar', 'hiperparâmetros']",hiperparametroVelocidade
+"['citar', 'principal', 'hiperparâmetros', 'aumentar', 'velocidade', 'modelo']",hiperparametroVelocidade
+"['aumento', 'velocidade', 'modelo', 'fazer', 'uso', 'hiperparâmetros']",hiperparametroVelocidade
+"['n', 'jobs']",hiperparametroVelocidade
+"['hiperparâmetro', 'n', 'jobs']",hiperparametroVelocidade
+"['servir', 'n', 'jobs']",hiperparametroVelocidade
+"['n', 'jobs', 'ter', 'uso']",hiperparametroVelocidade
+"['objetivo', 'n', 'jobs']",hiperparametroVelocidade
+['state'],hiperparametroVelocidade
+"['hiperparâmetro', 'state']",hiperparametroVelocidade
+"['servir', 'state']",hiperparametroVelocidade
+"['state', 'ter', 'uso']",hiperparametroVelocidade
+"['objetivo', 'state']",hiperparametroVelocidade
+"['oob', 'score']",hiperparametroVelocidade
+"['hiperparâmetro', 'oob', 'score']",hiperparametroVelocidade
+"['servir', 'oob', 'score']",hiperparametroVelocidade
+"['oob', 'score', 'ter', 'uso']",hiperparametroVelocidade
+"['objetivo', 'oob', 'score']",hiperparametroVelocidade
+"['etapa', 'processo', 'modelo', 'recomendar', 'utilizar']",aplicacao
+"['ter', 'como', 'recomendação', 'utilizar', 'etapa', 'processo']",aplicacao
+"['melhor', 'etapa', 'processo', 'utilizar']",aplicacao
+"['etapa', 'utilizar', 'processo', 'modelo']",aplicacao
+"['etapa', 'dar', 'uso', 'processo', 'modelo']",aplicacao
+"['utilizar', 'aleatoriedade', 'extra', 'quando', 'estar', 'criar', 'árvore']",definicao
+"['aleatoriedade', 'extra', 'dar', 'razão']",definicao
+"['utilizar', 'aleatoriedade', 'extra', 'durante', 'criação', 'quê']",definicao
+"['durante', 'criação', 'árvore', 'utilizar', 'aleatoriedade', 'extra', 'razão']",definicao
+"['citar', 'motivo', 'utilizar', 'aleatoriedade', 'extra', 'durante', 'criação', 'árvore']",definicao
+"['objetivo', 'bagging']",definicao
+"['bagging', 'ter', 'objetivo']",definicao
+"['principal', 'objetivo', 'bagging']",definicao
+"['citar', 'objetivo', 'bagging']",definicao
+"['bagging', 'apresentar', 'objetivo']",definicao
+"['fácil', 'utilizar']",definicao
+"['fácil', 'usar']",definicao
+"['uso', 'dar', 'maneira', 'fácil']",definicao
+"['utilizar', 'fácil']",definicao
+"['quão', 'fácil', 'fazer', 'uso']",definicao
+[],
+"['poderoso', 'árvore', 'decisão', 'comum']",conceito
+"['motivo', 'floresta', 'aleatório', 'mais', 'potente', 'árvore', 'decisão', 'comum']",conceito
+"['poderoso', 'decision', 'tree']",conceito
+"['mais', 'recomendar', 'decision', 'tree']",conceito
+"['mais', 'poderoso', 'ou', 'decision', 'tree']",conceito
+['paradigma'],paradigma
+"['quê', 'paradigma', 'utilizar', 'implementar', 'tree']",paradigma
+"['paradigma', 'existente', 'aprendizagem', 'máquina', 'ele', 'aplicar', 'tree']",paradigma
+"['paradigma', 'existente', 'aprendizagem', 'máquina', 'ele', 'aplicar', 'floresta', 'aleatório']",paradigma
+"['paradigma', 'usar', 'floresta', 'aleatório']",paradigma
+"['como', 'gerar', 'árvore', 'sua', 'floresta']",funcionamento
+"['como', 'criar', 'árvore']",funcionamento
+"['floresta', 'aleatório', 'como', 'criar', 'árvore']",funcionamento
+"['como', 'processo', 'criação', 'árvore']",funcionamento
+"['florestas', 'aleatório', 'como', 'processo', 'criação', 'árvore', 'floresta']",funcionamento
+"['como', 'funcionar', 'paradigma', 'utilizar']",paradigma
+"['como', 'funcionar', 'aprendizagem', 'supervisionar', 'utilizar']",paradigma
+"['como', 'funcionar', 'aprendizagem', 'supervisionar']",paradigma
+"['como', 'funcionar', 'paradigma', 'utilizar', 'floresta', 'aleatório']",paradigma
+['paradigma'],paradigma
+"['diferença', 'entre', 'decision', 'tree', 'e']",conceito
+"['diferir', 'decision', 'tree']",conceito
+"['diferença', 'entre', 'decision', 'tree', 'e']",conceito
+"['diferença', 'entre', 'e', 'árvore', 'decisão', 'comum']",conceito
+"['característica', 'tree', 'diferir', 'árvore', 'decisão', 'comum']",conceito
+[],
+[],conceito
+['definição'],conceito
+"['como', 'funcionar']",conceito
+"['como', 'funcionar']",conceito
+"['como', 'implementar']",conceito
+"['parâmetro', 'poder', 'alterar', 'ter', 'boa', 'performance']",parametro
+"['ter', 'boa', 'performance', 'parâmetro', 'dever', 'alterar']",parametro
+"['melhorar', 'performance', 'parâmetro', 'dever', 'modificar']",parametro
+"['parâmetro', 'dever', 'ajustar', 'ter', 'melhor', 'performance']",parametro
+"['parâmetro', 'impactar', 'performance']",parametro
+"['vantagem', 'com', 'relação', 'bagging']",conceito
+"['melhor', 'utilizar', 'bagging']",conceito
+"['diferença', 'entre', 'e', 'bagging']",conceito
+"['ligação', 'entre', 'bagging', 'e']",conceito
+"['distinguir', 'bagging']",conceito
+"['quanto', 'fase', 'possuir']",funcionamento 
+"['número', 'fase']",funcionamento 
+"['quanto', 'sao', 'fase', 'floresta', 'aleatório']",funcionamento 
+"['quanto', 'fase', 'separar']",funcionamento 
+"['dividir', 'quanto', 'fase']",funcionamento 
+"['como', 'fase']",funcionamento 
+"['característica', 'fase']",funcionamento 
+"['responsabilidade', 'cada', 'fase']",funcionamento 
+"['incumbencia', 'cada', 'fase']",funcionamento 
+"['escopo', 'cada', 'fase']",funcionamento 
+['vantagem'],funcionamento 
+"['benefício', 'apresentar']",funcionamento 
+['usar'],funcionamento 
+"['haver', 'bom']",funcionamento 
+['pró'],funcionamento 
+['vantagem'],funcionamento 
+['contra'],funcionamento 
+"['haver', 'ruim']",funcionamento 
+"['dificultar', 'utilizar']",funcionamento 
+"['haver', 'ruim']",funcionamento 
+"['vantagem', 'poder', 'utilizar', 'tanto', 'tarefa', 'classificação', 'quanto', 'regressão']",conceito
+"['benefício', 'poder', 'utilizar', 'tanto', 'tarefa', 'classificação', 'quantopara', 'tarefa', 'regressão']",conceito
+"['beneficiar', 'poder', 'utilizar', 'tanto', 'tarefa', 'classificação', 'quanto', 'paratarefas', 'regressão']",conceito
+"['poder', 'utilizar', 'tipo', 'tarefa']",conceito
+"['além', 'poder', 'utilizar', 'tarefa', 'regressão', 'outro', 'tarefa', 'podeser', 'utilizar']",conceito
+"['método', 'bagging']",funcionamento 
+"['método', 'utilizar', 'construção', 'árvore', 'floresta']",funcionamento 
+"['como', 'funcionar', 'método', 'criar', 'árvore', 'floresta']",funcionamento 
+"['como', 'funcionar', 'método', 'bagging']",funcionamento 
+"['como', 'método', 'bagging', 'dever', 'gerar', 'árvore', 'floresta']",funcionamento 
+"['como', 'fazer', 'predição']",conceito
+"['formar', 'efetuar', 'predição']",conceito
+"['como', 'implementar', 'predição']",conceito
+"['característica', 'predição']",conceito
+"['método', 'aprendizado', 'máquina', 'utilizar', 'usar', 'tecnica', 'efetuar', 'predição']",conceito
+"['base', 'utilizar', 'breiman', 'criação']",conceito
+['origem'],conceito
+"['como', 'implementar']",conceito
+"['trabalho', 'utilizar', 'implementar']",conceito
+['basear'],conceito
+"['precisão', 'obter', 'utilizar']",funcionamento
+"['como', 'convergência']",funcionamento
+"['como', 'precisão', 'e', 'como', 'obter']",funcionamento
+"['possuir', 'excelente', 'precisão', 'como', 'ele', 'conseguir', 'isso']",funcionamento
+"['impacto', 'característica', 'árvore', 'generalizar', 'erro']",funcionamento
+['característica'],conceito
+"['principal', 'atributo']",conceito
+"['característica', 'tornar', 'apropriar', 'classificação', 'grande', '\n', 'quantia', 'dado']",conceito
+"['característica', 'melhor', 'definir']",conceito
+"['principal', 'aptidão']",conceito
+"['importante', 'saber', 'importância', 'variar']",conceito
+"['variar', 'importante']",conceito
+"['relevante', 'saber', 'importancia', 'variar', 'utilizar']",conceito
+"['ganho', 'saber', 'importancia', 'variar', 'utilizar']",conceito
+"['como', 'saber', 'variar', 'relevante', 'problema']",conceito
+"['como', 'fazer', 'treinar']",funcionamento
+"['como', 'ocorrer', 'treinar', 'árvore']",funcionamento
+"['como', 'árvore', 'treinar']",funcionamento
+"['como', 'treinar', 'árvore', 'dever', 'implementar']",funcionamento
+"['como', 'funcionar', 'treinar', 'árvore', 'floresta']",funcionamento
+[],
+['aplicar'],
+[],
+[],
+[],
+[],
+"['floresta', 'aleatório']",conceito
+[],conceito
+"['floresta', 'aleatório']",conceito
+[],conceito
+"['floresta', 'aleatório', 'i.']",conceito
+"['data', 'criação']",historia
+"['data', 'criação']",historia
+"['data', 'criação', 'floresta', 'aleatório']",historia
+"['data', 'criar']",historia
+"['data', 'criar', 'floresta', 'aleatório']",historia
+"['criar', 'floresta', 'aleatório']",historia
+['criar'],historia
+"['criador', 'floresta', 'aleatório']",historia
+['criador'],historia
+"['criar', 'floresta', 'aleatório']",historia
+"['aplicar', 'floresta', 'aleatório', 'utilizar']",aplicacao
+"['aplicar', 'utilizar']",aplicacao
+"['aplicar', 'usar', 'floresta', 'aleatório']",aplicacao
+"['aplicar', 'usar']",aplicacao
+"['setor', 'usar', 'floresta', 'aleatório']",aplicacao
+"['principal', 'vantagem', 'algoritimo', 'floresta', 'aleatório']",vantagem
+"['principal', 'vantagem', 'algoritimo']",vantagem
+"['vantagem', 'algoritimo', 'floresta', 'aleatório']",vantagem
+"['vantagem', 'algoritimo']",vantagem
+"['principal', 'vantagem', 'algoritimo', 'floresta', 'aleatório']",vantagem
+"['principal', 'vantagem', 'algoritimo', 'floresta', 'aleatório']",desvantagem
+"['principal', 'vantagem', 'algoritimo']",desvantagem
+"['vantagem', 'algoritimo', 'floresta', 'aleatório']",desvantagem
+"['vantagem', 'algoritimo']",desvantagem
+"['vantagem', 'algoritimo', 'floresta', 'aleatório', 'ter']",desvantagem
+"['floresta', 'aleatório', 'poder', 'aplicar', 'tarefa', 'regressão']",aplicacao
+"['poder', 'aplicar', 'tarefa', 'regressão']",aplicacao
+"['floresta', 'aleatório', 'poder', 'aplicar', 'tarefa', 'regressão']",aplicacao
+"['poder', 'aplicar', 'tarefa', 'regressão']",aplicacao
+"['floresta', 'aleatório', 'poder', 'aplicar', 'regressão']",aplicacao
+"['floresta', 'aleatório', 'propenso', 'overfitting']",overfitting
+"['floresta', 'aleatório', 'propenso', 'sobreajuste']",overfitting
+"['propenso', 'overfitting']",overfitting
+"['propenso', 'sobreajuste']",overfitting
+"['floresta', 'aleatório', 'poder', 'usar', 'overfitting']",overfitting
+"['como', 'construir', 'floresta', 'aleatório']",metodo
+"['como', 'construir']",metodo
+"['como', 'fazer', 'floresta', 'aleatório']",metodo
+"['como', 'fazer']",metodo
+"['como', 'fazer', 'floresta', 'aleatório']",metodo
+['bagging'],conceitoBagging
+"['significar', 'bagging']",conceitoBagging
+['bagging'],conceitoBagging
+"['poder', 'bagging']",conceitoBagging
+['bagging'],conceitoBagging
+['bootstrap'],conceitoBootstrap
+"['significar', 'bootstrap']",conceitoBootstrap
+"['poder', 'bootstrap']",conceitoBootstrap
+['bootstrap'],conceitoBootstrap
+['bootstrap'],conceitoBootstrap
+"['importância', 'algoritimo']",aplicacao
+"['importância', 'algoritimo', 'floresta', 'aleatório']",aplicacao
+"['importância', 'floresta', 'aleatório']",aplicacao
+['importância'],aplicacao
+"['importância', 'algoritimo', 'floresta', 'aleatório']",aplicacao
+"['vantagem', 'sobre', 'outro', 'modelo', 'aprendizado', 'máquina']",comparacao
+"['vantagem', 'relação', 'outro', 'modelo', 'aprendizado', 'máquina']",comparacao
+"['vantagem', 'quando', 'comparar', 'outro', 'modelo', 'aprendizado', 'máquina']",comparacao
+"['vantagem', 'sobre', 'outro', 'modelo', 'ia']",comparacao
+"['vantagem', 'sobre', 'outro', 'modelo', 'i.']",comparacao
+['boosting'],conceitoBoosting
+"['significar', 'boosting']",conceitoBoosting
+"['poder', 'boosting']",conceitoBoosting
+['boosting'],conceitoBoosting
+['‘boosting’'],conceitoBoosting
+"['floresta', 'aleatório', 'poder', 'utilizar', 'classificação']",aplicacao
+"['poder', 'utilizar', 'classificação']",aplicacao
+"['floresta', 'aleatório', 'poder', 'utilizar', 'classificação']",aplicacao
+"['poder', 'utilizar', 'classificação']",aplicacao
+"['poder', 'utilizar', 'classificação']",aplicacao
+"['árvore', 'decisão']",conceitoArvoreDecisao
+"['árvore', 'decisão']",conceitoArvoreDecisao
+"['poder', 'árvore', 'decisão']",conceitoArvoreDecisao
+"['decision', 'tree']",conceitoArvoreDecisao
+"['decision', 'tree']",conceitoArvoreDecisao
+"['floresta', 'aleatório', 'utilizar', 'árvore', 'decisão']",conceito
+"['utilizar', 'árvore', 'decisão']",conceito
+"['floresta', 'aleatório', 'utilizar', 'decision', 'tree']",conceito
+"['utilizar', 'decision', 'tree']",conceito
+"['floresta', 'aleatório', 'usar', 'árvore', 'decisão']",conceito
+"['fazer', 'parte', 'i.']",conceito
+"['fazer', 'parte', 'ia']",conceito
+"['floresta', 'aleatório', 'considerar', 'i.']",conceito
+"['considerar', 'i.']",conceito
+"['considerar', 'ia']",conceito
+['servir'],aplicacao
+"['servir', 'floresta', 'aleatório']",aplicacao
+['utilidade'],aplicacao
+"['utilidade', 'floresta', 'aleatório']",aplicacao
+['usar'],aplicacao
+"['mostre', 'diferençar', 'com', 'árvore', 'decisão']",comparacao
+"['diferença', 'sobre', 'árvore', 'decisão']",comparacao
+"['diferença', 'com', 'árvore', 'decisão']",comparacao
+"['diferença', 'cima', 'árvore', 'decisão']",comparacao
+"['diferença', 'quando', 'comparar', 'com', 'árvore', 'decisão']",comparacao
+"['floresta', 'aleatória']",conceito
+"['como', 'funcionar', 'algoritimo']",funcionamento
+['pergunta'],Classe
+"['como', 'funcionar', 'floresta', 'aleatoria']",funcionamento
+"['como', 'realizar', 'funcionar', 'floresta', 'aleatório']",funcionamento
+"['príncipio', 'funcionar', 'floresta', 'aleatório']",funcionamento
+"['como', 'operar', 'floresta', 'aleatório']",funcionamento
+"['como', 'floresta', 'aleatório', 'operar']",funcionamento
+"['vantagem', 'floresta', 'aleatório']",vantagem
+"['usar', 'floresta', 'aleatório']",vantagem
+"['benefício', 'usar', 'floresta', 'aleatório']",vantagem
+"['praticabilidade', 'floresta', 'aleatório']",vantagem
+"['serventia', 'usar', 'floresta', 'aleatório']",vantagem
+"['diferença', 'entre', 'árvore', 'decisão', 'e', 'floresta', 'aleatório']",comparacao
+"['diferir', 'árvore', 'decisão', 'e', 'floresta', 'aleatório']",comparacao
+"['separar', 'árvore', 'decisão', 'floresta', 'aleatório']",comparacao
+"['aspecto', 'diferenciar', 'floresta', 'aleatório', 'árvore', 'decisão']",comparacao
+"['destoar', 'árvore', 'decisão', 'floresta', 'aleatório']",comparacao
+"['como', 'floresta', 'aleatório', 'evitar', 'sobreajuste']",funcionamento
+"['como', 'possível', 'evitar', 'sobreajuste', 'floresta', 'aleatório']",funcionamento
+"['maneira', 'possível', 'evitar', 'sobreajuste', 'floresta', 'aleatório']",funcionamento
+"['jeito', 'evitar', 'sobreajuste', 'floresta', 'aleatório']",funcionamento
+"['como', 'sobreajuste', 'evitar', 'floresta', 'aleatório']",funcionamento
+"['maior', 'limitar', 'floresta', 'aleatório']",desvantagem
+"['maior', 'restrição', 'floresta', 'aleatório']",desvantagem
+"['limitar', 'floresta', 'aleatório']",desvantagem
+"['restringir', 'floresta', 'aleatório']",desvantagem
+"['como', 'floresta', 'aleatório', 'poder', 'sofrer', 'limitar']",desvantagem
+"['tipo', 'ferramenta', 'modelagem', 'floresta', 'aleatório']",conceito
+"['florestas', 'aleatório', 'ferramenta', 'modelagem', 'tipo']",conceito
+"['tipo', 'ferramenta', 'modelagem', 'aplicar', 'floresta', 'aleatório']",conceito
+"['tipo', 'ferramenta', 'modelagem', 'definir', 'floresta', 'aleatório']",conceito
+"['floresta', 'aleatório', 'encaixar', 'tipo', 'ferramenta', 'modelagem']",conceito
+"['servir', 'hiperparâmetros', 'floresta', 'aleatório']",hiperparametros
+"['propósito', 'hiperparâmetros', 'floresta', 'aleatório']",hiperparametros
+"['hiperparâmetros', 'floresta', 'aleatório', 'servir']",hiperparametros
+"['funcional', 'hiperparâmetros', 'floresta', 'aleatório']",hiperparametros
+"['utilidade', 'hiperparâmetos', 'floresta', 'aleatório']",hiperparametros
+"['hiperparâmetro', 'n', 'estimators']",nEstimators
+"['utilidade', 'hiperparâmetro', 'n', 'estimators']",nEstimators
+"['hiperparâmetro', 'n', 'estimators', 'servir']",nEstimators
+"['funcional', 'hiperparâmetro', 'n', 'estimators', 'floresta', 'aleatório']",nEstimators
+"['floresta', 'aleatório', 'funcional', 'hiperparâmetro', 'n', 'estimators']",nEstimators
+"['vantagem', 'e', 'vantagem', 'valor', 'elevar', 'n', 'estimators']",nEstimators
+"['benefício', 'e', 'malefício', 'valor', 'elevar', 'n', 'estimators']",nEstimators
+"['valor', 'elevar', 'n', 'estimators', 'ter', 'vantagem', 'e', 'vantagem']",nEstimators
+"['ganho', 'e', 'perda', 'ter', 'quando', 'valor', 'n', 'estimators', 'elevar']",nEstimators
+"['valor', 'elevar', 'n', 'estimators', 'ter', 'perda', 'e', 'ganho']",nEstimators
+"['hiperparâmetro', 'max', 'features']",maxFeatures
+"['utilidade', 'hiperparâmetro', 'max', 'features']",maxFeatures
+"['hiperparâmetro', 'max', 'features', 'servir']",maxFeatures
+"['funcional', 'hiperparâmetro', 'max', 'features', 'floresta', 'aleatório']",maxFeatures
+"['floresta', 'aleatório', 'funcional', 'hiperparâmetro', 'max', 'features']",maxFeatures
+"['hiperparâmetro', 'min', 'sample', 'leaf']",minSampleLeaf
+"['utilidade', 'hiperparâmetro', 'min', 'sample', 'leaf']",minSampleLeaf
+"['hiperparâmetro', 'min', 'sample', 'leaf', 'servir']",minSampleLeaf
+"['funcional', 'hiperparâmetro', 'min', 'sample', 'leaf', 'floresta', 'aleatório']",minSampleLeaf
+"['floresta', 'aleatório', 'funcional', 'hiperparâmetro', 'min', 'sample', 'leaf']",minSampleLeaf
+"['área', 'aplicação', 'floresta', 'aleatório']",aplicacao
+"['onde', 'poder', 'aplicar', 'floresta', 'aleatório']",aplicacao
+"['floresta', 'aleatório', 'poder', 'aplicar', 'aréas']",aplicacao
+"['área', 'aplicação', 'poder', 'utilizar', 'floresta', 'aleatório']",aplicacao
+"['setor', 'poder', '-se', 'aplicar', 'floresta', 'aleatório']",aplicacao
+"['como', 'floresta', 'aleatório', 'utilizar', 'setor', 'bancário']",aplicacao
+"['setor', 'bancário', 'como', 'utilizar', 'floresta', 'aleatório']",aplicacao
+"['maneira', 'utilizar', 'floresta', 'aleatório', 'setor', 'bancário']",aplicacao
+"['floresta', 'aleatório', 'utilizar', 'maneira', 'setor', 'bancário']",aplicacao
+"['forma', 'aplicar', 'floresta', 'aleatório', 'setor', 'bancário']",aplicacao
+"['como', 'floresta', 'aleatório', 'utilizar', 'setor', 'financeiro']",aplicacao
+"['setor', 'financeiro', 'como', 'utilizar', 'floresta', 'aleatório']",aplicacao
+"['maneira', 'utilizar', 'floresta', 'aleatório', 'setor', 'financeiro']",aplicacao
+"['floresta', 'aleatório', 'utilizar', 'maneira', 'setor', 'financeiro']",aplicacao
+"['forma', 'aplicar', 'floresta', 'aleatório', 'setor', 'financeiro']",aplicacao
+"['como', 'floresta', 'aleatório', 'utilizar', 'área', 'saúde']",aplicacao
+"['área', 'saúde', 'como', 'utilizar', 'floresta', 'aleatório']",aplicacao
+"['maneira', 'utilizar', 'floresta', 'aleatório', 'área', 'saúde']",aplicacao
+"['floresta', 'aleatório', 'utilizar', 'maneira', 'área', 'saúde']",aplicacao
+"['forma', 'aplicar', 'floresta', 'aleatório', 'área', 'saúde']",aplicacao
+"['quando', 'propor', 'primeiro', 'método', 'floresta', 'decisão', 'aleatório']",historia
+"['ano', 'propor', 'primeiro', 'método', 'floresta', 'aleatório']",historia
+"['primeiro', 'método', 'floresta', 'aleatório', 'propor', 'quando']",historia
+"['primeiro', 'método', 'floresta', 'aleatório', 'propor', 'ano']",historia
+"['proposição', 'primeiro', 'método', 'floresta', 'decisão', 'aleatório', 'propor', 'ano']",historia
+"['como', 'floresta', 'aleatório', 'utilizar', 'comércio', 'eletrônico']",aplicacao
+"['comércio', 'eletrônico', 'como', 'utilizar', 'floresta', 'aleatório']",aplicacao
+"['maneira', 'utilizar', 'floresta', 'aleatório', 'comércio', 'eletrônico']",aplicacao
+"['floresta', 'aleatório', 'utilizar', 'maneira', 'comércio', 'eletrônico']",aplicacao
+"['forma', 'aplicar', 'floresta', 'aleatório', 'comércio', 'eletrônico']",aplicacao
+"['principal', 'hiperparametros', 'floresta', 'aleatório']",hiperparametros
+"['floresta', 'aleatório', 'possuir', 'hiperparâmetros', 'principal']",hiperparametros
+"['3', 'hiperparâmetros', 'maior', 'importância', 'floresta', 'aleatório']",hiperparametros
+"['florestas', 'aleatório', 'possuir', '3', 'hiperparâmetros', 'principal', 'ele']",hiperparametros
+"['3', 'hiperparâmetros', 'principal', 'floresta', 'aleatório']",hiperparametros
+"['florestas', 'aleatório', 'tipo']",conceito
+"['tipo', 'aplicar', 'floresta', 'aleatório']",conceito
+"['categoria', 'floresta', 'aleatório']",conceito
+"['floresta', 'aleatório', 'pertencer', 'categoria']",conceito
+"['tipo', 'poder', 'classificar', 'floresta', 'aleatório']",conceito
+"['árvore', 'decisão']",conceito
+"['definição', 'árvore', 'decisão']",conceito
+"['árvore', 'decisão', 'funcionar', 'maneira']",conceito
+"['como', 'definir', 'árvore', 'decisão']",conceito
+"['como', 'poder', 'descrever', 'árvore', 'decisão']",conceito
+[],
+[],definição
+[],definição
+['ia'],definição
+"['inteligência', 'artificial']",definição
+"['árvore', 'decisão']",definição
+"['quando', 'primeiro', 'propor']",história
+"['quando', 'propor']",história
+"['ano', 'propor']",história
+"['ano', 'surgir']",história
+"['quando', 'inventar']",história
+['propor'],história
+['desenvolver'],história
+['criar'],história
+['desenvolver'],história
+['publicar'],história
+"['como', 'diferente', 'outro', 'árvore', 'decisão']",comparação
+"['como', 'diferir', 'outro', 'árvore', 'decisão']",comparação
+"['como', 'diferente', 'outro', 'próximo']",comparação
+"['formar', 'diferente', 'outro', 'decisão']",comparação
+"['diferente', 'outro', 'árvore', 'decisão']",comparação
+"['formar', 'melhor', 'outro', 'semelhante']",comparação
+"['como', 'melhor', 'outro', 'semelhante']",comparação
+"['diferença', 'outro', 'próximo']",comparação
+"['destacar', 'relação', 'outro']",comparação
+"['porque', 'melhor', 'escolha', 'outro', 'árvore', 'decisão']",comparação
+"['área', 'computar', 'usar']",aplicacao
+"['área', 'computar', 'poder', 'usar']",aplicacao
+"['área', 'computar', 'usar']",aplicacao
+"['área', 'computar', 'poder', 'usar']",aplicacao
+"['área', 'computar', 'poder', 'encontrar']",aplicacao
+"['vantagem', 'setor', 'bancário']",aplicacao
+"['poder', 'usar', 'setor', 'bancário']",aplicacao
+"['poder', 'usar', 'setor', 'bancário']",aplicacao
+"['poder', 'usar', 'setor', 'bancário']",aplicacao
+"['com', 'utilidade', 'aparecer', 'setor', 'bancário']",aplicacao
+"['vantagem', 'setor', 'financeiro']",aplicacao
+"['poder', 'usar', 'setor', 'financeiro']",aplicacao
+"['poder', 'usar', 'setor', 'financeiro']",aplicacao
+"['poder', 'usar', 'setor', 'financeiro']",aplicacao
+"['com', 'utilidade', 'aparecer', 'setor', 'financeiro']",aplicacao
+"['vantagem', 'área', 'saúde']",aplicacao
+"['poder', 'usar', 'área', 'saúde']",aplicacao
+"['poder', 'usar', 'área', 'saúde']",aplicacao
+"['poder', 'usar', 'área', 'saúde']",aplicacao
+"['com', 'utilidade', 'aparecer', 'área', 'saúde']",aplicacao
+"['vantagem', 'comércio', 'eletrônico']",aplicacao
+"['poder', 'usar', 'comércio', 'eletrônico']",aplicacao
+"['poder', 'usar', 'comércio', 'eletrônico']",aplicacao
+"['poder', 'usar', 'comércio', 'eletrônico']",aplicacao
+"['com', 'utilidade', 'aparecer', 'comércio', 'eletrônico']",aplicacao
+"['como', 'funcionar']",funcionamento
+"['como', 'funcionar']",funcionamento
+"['formar', 'funcionar']",funcionamento
+"['forma', 'funcionar']",funcionamento
+"['formar', 'funcionar']",funcionamento
+"['como', 'aumentar', 'eficiência', 'dedução']",melhoria
+"['como', 'aumentar', 'eficiência', 'predição']",melhoria
+"['como', 'aumentar', 'qualidade', 'predição']",melhoria
+"['como', 'aumentar', 'qualidade', 'dedução']",melhoria
+"['forma', 'poder', 'aumentar', 'capacidade', 'dedução']",melhoria
+"['tempo', 'treinar', 'comparar', 'outro', 'dedução']",pré-processamento
+"['como', 'tempo', 'treinar', 'comparar', 'outro', 'dedução']",pré-processamento
+"['tempo', 'levar', 'treinar', 'comparar', 'outro', 'semelhante']",pré-processamento
+"['diferença', 'tempo', 'treinar', 'e', 'outro', 'semelhante']",pré-processamento
+"['tempo', 'treinar', 'diferir', 'outro', 'semelhante']",pré-processamento
+"['tempo', 'execução', 'comparar', 'outro', 'semelhante']",pós-processamento
+"['tempo', 'execução', 'comparar', 'outro', 'próximo']",pós-processamento
+"['tempo', 'execução', 'comparar', 'outro', 'decisão']",pós-processamento
+"['tempo', 'execução', 'comparar', 'outro', 'dedução']",pós-processamento
+"['tempo', 'execução', 'quando', 'comparar', 'outro', 'semelhante']",pós-processamento
+"['relação', 'entre', 'qualidade', 'resultado', 'e', 'quantidade', 'árvore']",melhoria
+"['como', 'relação', 'entre', 'qualidade', 'resultado', 'e', 'quantidade', 'árvore']",melhoria
+"['formar', 'qualidade', 'resultado', 'estar', 'relacionar', 'com', 'quantidade', 'árvore']",melhoria
+"['como', 'quantidade', 'árvore', 'afetar', 'qualidade', 'resultado']",melhoria
+"['formar', 'quantidade', 'árvore', 'afetar', 'qualidade', 'resultado']",melhoria
+"['contribuir', 'evolução']",história
+"['pessoa', 'contribuir', 'evolução']",história
+"['principal', 'contribuir', 'evolução']",história
+"['cientista', 'computar', 'contribuir', 'evolução']",história
+"['cientista', 'computar', 'contribuir', 'desenvolvimento']",história
+"['diferença', 'entre', 'e', 'forests']",diferença
+"['diferença', 'entre', 'forests', 'e']",diferença
+"['como', 'diferente', 'forests']",diferença
+"['como', 'forests', 'diferente']",diferença
+"['diferir', 'forests']",diferença
+"['forests', 'trazer', 'novo']",história
+"['forests', 'agregar']",história
+"['extensão', 'forests', 'trazer', 'novo']",história
+"['extensão', 'forests', 'agregar']",história
+"['forests', 'trazer']",história
+"['com', 'facilidade', 'poder', '-se', 'aprender', 'usar']",usabilidade
+"['com', 'facilidade', 'poder', 'aprender', 'usar']",usabilidade
+"['com', 'facilidade', 'poder', 'aprender', 'usar']",usabilidade
+"['com', 'facilidade', 'poder', '-se', 'aprender', 'implementar']",usabilidade
+"['com', 'facilidade', 'poder', 'aprender', 'implementar']",usabilidade
+"['dever', 'usar', 'meu', 'sistema']",usabilidade
+"['dever', 'usar', 'meu', 'sistema']",usabilidade
+"['eu', 'usar', 'meu', 'sistema']",usabilidade
+"['eu', 'implementar', 'meu', 'sistema']",usabilidade
+"['eu', 'agregar', 'meu', 'sistema']",usabilidade
+"['como', 'funcionar']",funcionamento
+"['maneira', 'comportar']",funcionamento
+['comportar'],funcionamento
+"['como', 'funcionar']",funcionamento
+"['descrever', 'mecanismo', 'funcionar']",funcionamento
+['objetivo'],aplicação
+['função'],aplicação
+['meta'],aplicação
+"['definir', 'propósito']",aplicação
+['intenção'],aplicação
+"['vantagem', 'utilizar']",usabilidade
+"['beneficiar', 'utilizar']",usabilidade
+"['beneficiar', 'uso']",usabilidade
+"['proveito', 'utilizar']",usabilidade
+"['primazia', 'utilizar']",usabilidade
+"['melhor', 'outro']",usabilidade
+"['maneira', 'destacar', 'sobre', 'outro']",diferença
+"['como', 'melhor', 'outro']",diferença
+"['ponto', 'demais', 'tendém', 'pior']",diferença
+"['ponto', 'demais', 'tendém', 'não', 'tão', 'eficiente', 'comparação']",diferença
+"['diga', 'possível', 'ambiente', 'aplicação']",aplicação
+"['diga', 'possível', 'uso', 'aplicação']",aplicação
+"['prática', 'onde', 'poder', 'utilizar']",aplicação
+"['possível', 'ambiente', 'poder', 'utilizar']",aplicação
+"['dizer', 'possível', 'execução', 'ambiente', 'real']",aplicação
+"['diferença', 'entre', 'e', 'árvore', 'decisão']",comparação
+"['citar', 'diferença', 'entre', 'e', 'árvore', 'decisão']",comparação
+"['relação', 'entre', 'e', 'árvore', 'decisão']",comparação
+"['dissemelhança', 'entre', 'e', 'árvore', 'decisão']",comparação
+"['distinção', 'entre', 'e', 'árvore', 'decisão']",comparação
+"['importância', 'hiperparâmetros']",nEstimators
+"['relevancia', 'hiperparâmetros']",nEstimators
+"['real', 'valor', 'hiperparâmetros']",nEstimators
+"['valor', 'hiperparâmetros']",nEstimators
+"['interesse', 'escolha', 'hiperparâmetros']",nEstimators
+"['três', 'hiperparâmetros']",nEstimators
+['hiperparâmetros'],nEstimators
+"['citar', 'três', 'hiperparâmetros']",nEstimators
+"['citar', 'principal', 'hiperparâmetros']",nEstimators
+"['citar', 'hiperparâmetros']",nEstimators
+"['citar', 'hiperparâmetros', 'definir', 'velocidade', 'modelo']",nEstimators
+"['citar', 'três', 'hiperparâmetros', 'definir', 'velocidade', 'modelo']",nEstimators
+"['hiperparâmetros', 'definir', 'velocidade', 'modelo']",nEstimators
+"['três', 'hiperparâmetros', 'definir', 'velocidade', 'modelo']",nEstimators
+"['diga', 'hiperparâmetros', 'definir', 'velocidade', 'modelo']",nEstimators
+"['como', 'performance']",usabilidade
+"['quão', 'boa', 'performance']",usabilidade
+"['como', 'desempenho']",usabilidade
+"['como', 'desempenho']",usabilidade
+"['eficiência', 'praticar']",usabilidade
+['limitar'],limitação
+"['citar', 'limitar']",limitação
+['deficiência'],limitação
+"['citar', 'deficiência']",limitação
+['macular'],limitação
+"['como', 'dar', 'treinar']",treinamento
+"['quão', 'efetivo', 'treinar']",treinamento
+"['quão', 'rapido', 'treinar']",treinamento
+"['como', 'dar', 'velocidade', 'treinar']",treinamento
+"['quão', 'ágil', 'treinar']",treinamento
+"['diferença', 'entre', 'features', 'produzir', 'grande', 'e', 'pequeno', 'valor']",comparação
+"['como', 'diferença', 'entre', 'features', 'produzir', 'grande', 'e', 'pequeno', 'valor']",comparação
+"['igualdade', 'entre', 'features', 'produzir', 'grande', 'e', 'pequeno', 'valor']",comparação
+"['discrepância', 'entre', 'features', 'produzir', 'grande', 'e', 'pequeno', 'valor']",comparação
+"['defina', 'discrepância', 'entre', 'features', 'produzir', 'grande', 'e', 'pequeno', 'valor']",comparação
+"['pra', 'servir', 'hiperparametro', 'n', 'estimators']",nEstimators
+"['importância', 'hiperparametro', 'n', 'estimators']",nEstimators
+"['relevância', 'hiperparametro', 'n', 'estimators']",nEstimators
+"['definir', 'importância', 'hiperparametro', 'n', 'estimators']",nEstimators
+"['defina', 'relevância', 'hiperparametro', 'n', 'estimators']",nEstimators
+['bagged'],baggedForest
+"['definir', 'bagged']",baggedForest
+"['explicar', 'bagged']",baggedForest
+"['estabelecer', 'significado', 'bagged']",baggedForest
+"['dar', 'significado', 'bagged']",baggedForest
+[],baggedForest
+"['descrever', 'relação', 'entre', 'e', 'kernel', 'methods']",diferença
+"['diferença', 'enter', 'e', 'kernel']",diferença
+['kernel'],diferença
+"['definir', 'kernel']",diferença
+"['mecanismo', 'adaptar', 'kernel', 'method']",diferença
+"['extra', 'trees']",extra trees
+"['como', 'gerar', 'extra', 'trees']",extra trees
+"['defina', 'extra', 'tree']",extra trees
+"['contextualizar', 'processo', 'criação', 'extra', 'trees']",extra trees
+"['resultado', 'passo', 'extra', 'randomização']",extra trees
+"['citar', 'dois', 'caracteristicas', 'extra', 'trees']",extra trees
+"['extra', 'trees', 'diferenciar', 'forests', 'ordinário']",extra trees
+"['extra', 'trees', 'possuir', 'diferença', 'forests', 'ordinário', 'jusitifique']",extra trees
+"['sao', 'diferença', 'entre', 'extra', 'trees', 'e', 'forests', 'ordinário']",extra trees
+"['defina', 'extra', 'trees', 'partir', 'sua', 'carcteristicas', 'proprias']",extra trees
+"['citar', 'consequencia', 'natural', 'preditores', 'forests']",funcionamento
+"['construção', 'preditores', 'ter', 'importantae', 'consequencia']",funcionamento
+"['ocorrer', 'gerar', '-se', 'preditores']",funcionamento
+"['consequencia', 'gerar', 'preditores']",funcionamento
+"['efeito', 'colateral', 'construção', 'preditores', 'forests']",funcionamento
+"['importância', 'hiperparâmetro', 'max', 'features']",nEstimators
+"['definir', 'importância', 'hiperparâmetro', 'max', 'features']",nEstimators
+"['explicar', 'importância', 'hiperparâmetro', 'max', 'features']",nEstimators
+"['dizer', 'importância', 'hiperparâmetro', 'max', 'features']",nEstimators
+"['como', 'hiperparâmetro', 'max', 'features', 'afetar']",nEstimators
+['aplicar'],aplicacao
+"['poder', 'aplicar']",aplicacao
+"['onde', 'poder', 'aplicar']",aplicacao
+"['área', 'aplicação']",aplicacao
+"['quê', 'aplicar']",aplicacao
+[],conceito
+['tratar'],conceito
+['definir'],conceito
+"['único', 'solucionar', 'o(s)', 'problema(s)', 'propor']",comparacao
+"['haver', 'outro', 'além', 'do', 'solucionar', 'mesmo', 'problema']",comparacao
+"['existir', 'mais', 'solucionar', 'mesmo', 'problema']",comparacao
+"['existir', 'alternativas']",comparacao
+"['possível', 'paralelizar']",funcionamento
+"['poder', 'paralelizar']",funcionamento
+"['poder', 'haver', 'implementar', 'paralela']",funcionamento
+"['paralelismo', 'poder', 'aplicar', 'implementar']",funcionamento
+"['utilizar', 'programar', 'dinâmico', 'resolução', 'problema']",funcionamento
+"['fazer', 'uso', 'programar', 'dinâmico', 'resolver', 'problema']",funcionamento
+"['programar', 'dinâmico', 'aplicar', 'resolução', 'problema']",funcionamento
+"['força', 'bruto']",conceito
+"['utilizar', 'força', 'bruto']",conceito
+"['técnica', 'força', 'bruto', 'fazer', 'parte']",conceito
+"['poder', 'considerar', 'simples', 'implementar']",conceito
+"['simples', 'implementar']",conceito
+"['implementar', 'poder', 'fazer', 'maneira', 'simples']",conceito
+"['utilidade', 'hiperparâmetros']",hiperparametro
+"['finalidade', 'hiperparâmetros']",hiperparametro
+"['quê', 'servir', 'hiperparâmetros']",hiperparametro
+"['utilizar', 'hiperparâmetros', 'finalidade']",hiperparametro
+"['como', 'dado', 'organizar', 'estrutural']",funcionamento
+"['estrutura', 'dado', 'utilizar']",funcionamento
+"['estrutura', 'dado', 'utilizar']",funcionamento
+"['autor', 'primeira', 'versão']",historia
+['criador'],historia
+"['primeiro', 'desenvolver']",historia
+['elaborar'],historia
+"['desenvolver', 'inicial']",historia
+"['importância', 'característica']",conceito
+"['relevância', 'característica']",conceito
+['aproximação'],funcionamento
+['aproximação'],funcionamento
+"['pertencer', 'categoria', 'aproximação']",funcionamento
+"['enquadrar', 'categoria', 'aproximação']",funcionamento
+['classificação'],funcionamento
+['classificação'],funcionamento
+"['poder', 'usar', 'classificação']",funcionamento
+"['possível', 'usar', 'classificação']",funcionamento
+"['classe', 'compressão']",funcionamento
+['compressão'],funcionamento
+"['encaixar', 'categoria', 'compressão']",funcionamento
+['regressão'],funcionamento
+"['possível', 'usar', 'regressão']",funcionamento
+"['regressão', 'possibilidade', 'com', 'uso']",funcionamento
+"['resolver', 'problema', 'forma', 'eficiente']",funcionamento
+"['vantagem', 'utilizar']",vantagens
+['pró'],vantagens
+"['vantagem', 'randdom', 'possuir']",vantagens
+"['vantagem', 'utilizar']",desvantagens
+['contra'],desvantagens
+"['vantagem', 'possuir']",desvantagens
+"['com', 'tipo', 'entradas', 'poder', 'trabalhar']",funcionamento
+"['tipo', 'entradas', 'aceitar']",funcionamento
