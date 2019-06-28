@@ -12,7 +12,7 @@ from sklearn import metrics
 from sklearn.metrics import confusion_matrix
 from sklearn.svm import LinearSVC
 from sklearn.ensemble import RandomForestClassifier
-
+from sklearn.neural_network import MLPClassifier
 
 df = pd.read_csv('corpus_lema.csv')
 df.head()
@@ -40,10 +40,13 @@ features = tfidf.fit_transform(df.PERGUNTAS).toarray()
 labels = df.class_id
 features.shape
 
-model =  RandomForestClassifier()
+modelLSVC = LinearSVC()
+modelMLP = MLPClassifier()
+modelNB = MultinomialNB()
+
 X_train, X_test, y_train, y_test, indices_train, indices_test = train_test_split(features, labels, df.index, test_size=0.2, random_state=0)
-model.fit(X_train, y_train)
-y_pred = model.predict(X_test)
+modelLSVC.fit(X_train, y_train)
+y_pred = modelLSVC.predict(X_test)
 
 target_names = df['CLASSES'].value_counts().index.tolist()
 
